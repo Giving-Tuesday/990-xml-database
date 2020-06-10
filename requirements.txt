@@ -4,11 +4,11 @@ Django>=2.0.1
 # for postgres:
 psycopg2
 
-# for mysql 
+# for mysql
 # mysqlclient
 
-# 
-irsx
+#
+-e git+git://github.com/giving-tuesday/990-xml-reader.git#egg=irsx
 requests
 unidecode
 
